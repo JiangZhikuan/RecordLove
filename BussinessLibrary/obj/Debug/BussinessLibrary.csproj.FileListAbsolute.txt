@@ -1,0 +1,6 @@
+E:\代码练习\学习练习代码\RecordLove\BussinessLibrary\output\BussinessLibrary.dll
+E:\代码练习\学习练习代码\RecordLove\BussinessLibrary\output\BussinessLibrary.pdb
+E:\代码练习\学习练习代码\RecordLove\BussinessLibrary\obj\Debug\BussinessLibrary.dll
+E:\代码练习\学习练习代码\RecordLove\BussinessLibrary\obj\Debug\BussinessLibrary.pdb
+E:\代码练习\学习练习代码\RecordLove\BussinessLibrary\output\Aspose.Pdf.dll
+E:\代码练习\学习练习代码\RecordLove\BussinessLibrary\obj\Debug\BussinessLibrary.csprojResolveAssemblyReference.cache
